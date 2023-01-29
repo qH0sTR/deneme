@@ -1,7 +1,9 @@
 <?php
 
 class X{
-    function f1(){}
+    function f1(){
+        return "task1";
+    }
     function f1_Copy(){}
     function f2(){}
     function f2_Copy(){}
