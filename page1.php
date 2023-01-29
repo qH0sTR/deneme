@@ -6,7 +6,9 @@ class X{
     function f2(){}
     function f2_Copy(){}
     function f3(){}
-    function f3_Copy(){}
+    function f3_Copy(){
+        return "task3";
+    }
     function f4(){}
     function f4_Copy(){}
     function f5(){}
